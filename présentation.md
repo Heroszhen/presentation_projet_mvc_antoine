@@ -5,7 +5,7 @@ Nous pouvons le retrouver dans ce repository: <a href='https://github.com/Herosz
 Voici la structre de ce projet:
 <div><img src="images/1.png" alt=""></div>
 <br>
-Les détailles:
+<span style="font-size:18px">Les détailles:</span>
 <div><img src="images/2.png" alt=""></div>
 <div><img src="images/3.png" alt=""></div>
 <div><img src="images/4.png" alt=""></div>
