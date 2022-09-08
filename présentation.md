@@ -4,6 +4,8 @@ Nous pouvons le retrouver dans ce repository: <a href='https://github.com/Herosz
 <br>
 Voici la structre de ce projet:
 <div><img src="images/1.png" alt=""></div>
+<br>
+Les détailles:
 <div><img src="images/2.png" alt=""></div>
 <div><img src="images/3.png" alt=""></div>
 <div><img src="images/4.png" alt=""></div>
