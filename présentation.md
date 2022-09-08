@@ -10,9 +10,10 @@ Voici la structre de ce projet:
 <br><br>
 
 Le framework est construit avec l'achitecture "MVC" : controlleur, vue et modèle.<br>
-Nouvs avons également créé des composants et installé des packages pour que le projet fonctionne comme un projet normal:
+Nouvs avons également créé des composants et installé des packages pour que le framework fonctionne comme un projet php normal:
 <ul>
     <li>Twig : moteur de template</li>
     <li>FastRoute : système de routage</li>
     <li>PDO : outil pour la connexion à MySql</li>
+    <li>FlashBag : composant servant à afficher des messages</li>
 </ul>
