@@ -7,3 +7,12 @@ Voici la structre de ce projet:
 <div><img src="images/2.png" alt=""></div>
 <div><img src="images/3.png" alt=""></div>
 <div><img src="images/4.png" alt=""></div>
+<br><br>
+
+Le framework est construit avec l'achitecture "MVC" : controlleur, vue et modèle.<br>
+Nouvs avons également créé des composants et installé des packages pour que le projet fonctionne comme un projet normal:
+<ul>
+    <li>Twig : moteur de template</li>
+    <li>FastRoute : système de routage</li>
+    <li>PDO : outil pour la connexion à MySql</li>
+</ul>
