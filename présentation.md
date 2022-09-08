@@ -16,7 +16,7 @@ J'ai également créé des composants et installé des packages pour que le fram
     <li>FastRoute : système de routage</li>
     <li>FlashBag : composant servant à afficher des messages</li>
     <li>PDO : outil pour la connexion à MySql</li>
-    <li>PHPUnit : outils de tests unitaires</li>
+    <li>PHPUnit : outil de tests unitaires</li>
     <li>Twig : moteur de template</li>
 </ul>
 <br>
