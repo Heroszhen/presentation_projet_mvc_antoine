@@ -23,6 +23,12 @@ J'ai également créé des composants et installé des packages pour que le fram
 </ul>
 <br>
 J'ai aussi importé jquery pour pouvoir utiliser des plugins , par exemple : ckeditor 4.
+<br><br>
 
+<h3>Utilisation</h3>
+Ajouter une route dans app/Routes.php<br>
+Créer un contrôlleur dans src/Controller<br>
+Créer un fichier twig dans templates<br>
+Si le code est sur sql, la logique est écrite dans un fichier repository dans src/repository
 <br><br>
 zhen YANG
