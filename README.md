@@ -11,6 +11,9 @@ Voici la structre de ce projet:
 <div><img src="images/4.png" alt=""></div>
 <br><br>
 
+Pour lancer le serveur : php -S localhost:8000 -t public
+<br><br>
+
 Le framework est construit avec l'achitecture "MVC" : controlleur, vue et modèle.<br>
 J'ai également créé des composants et installé des packages pour que le framework fonctionne comme un projet php normal:
 <ul>
